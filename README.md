@@ -109,3 +109,6 @@ Detailed configuration for routes and endpoints can be found in `HealthApp/Model
 | Delete Doctor      | https://api.healthapp.local/doctors               | Wildcard | DELETE |
 | Doctors List       | https:\/\/api\.healthapp\.local\/.*\/doctors      | Regex    | GET    |
 | Patients List      | https:\/\/api\.healthapp\.local\/.*\/patients     | Regex    | GET    |
+
+** Thanks for reading, this project is MIT Licensed. **
+** ~ Abrar Ahmad ** 
