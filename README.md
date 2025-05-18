@@ -111,4 +111,4 @@ Detailed configuration for routes and endpoints can be found in `HealthApp/Model
 | Patients List      | https:\/\/api\.healthapp\.local\/.*\/patients     | Regex    | GET    |
 
 **Thanks for reading, this project is MIT Licensed.**
-**~ Abrar Ahmad** 
+**~Abrar Ahmad** 
